@@ -3,9 +3,7 @@
   <img src="https://media.giphy.com/media/FSR9GX4X06Wty/giphy.gif" width="300">
 </p>
 
-🚀 **Data Enthusiast | AI & ML Explorer**  
-
-### 🌟 About Me  
+# 🌟 About Me  
 💡 Exploring the world of **AI, ML, and Data Science**  
 📊 Love turning **raw data into actionable insights**  
 🎤 Passionate about **public speaking & presentations**  
