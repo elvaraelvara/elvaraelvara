@@ -4,6 +4,9 @@
 
 🚀 **Data Enthusiast | AI & ML Explorer**  
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWFtNWF5bXc5ZXJncHZtOXZ2ZXh3eXBhY3VvdHlmYXpqZGMxdjZqNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RiZzQFA7l9VwE/giphy.gif" width="300">
+</p>
 
 ### 🌟 About Me  
 💡 Exploring the world of **AI, ML, and Data Science**  
@@ -27,8 +30,4 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/teresiaelvara)  
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
-</p>
 
