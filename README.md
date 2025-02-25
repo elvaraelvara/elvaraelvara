@@ -5,8 +5,9 @@
 🚀 **Data Enthusiast | AI & ML Explorer**  
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWFtNWF5bXc5ZXJncHZtOXZ2ZXh3eXBhY3VvdHlmYXpqZGMxdjZqNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RiZzQFA7l9VwE/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/FSR9GX4X06Wty/giphy.gif" width="300">
 </p>
+
 
 ### 🌟 About Me  
 💡 Exploring the world of **AI, ML, and Data Science**  
