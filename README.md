@@ -5,8 +5,7 @@
 
 # 🌟 About Me  
 💡 Exploring the world of **AI, ML, and Data Science**  
-📊 Love turning **raw data into actionable insights**  
-🎤 Passionate about **public speaking & presentations**  
+📊 Love turning **raw data into actionable insights**   
 🌱 Constantly **learning & evolving** in the data space  
 
 ---
