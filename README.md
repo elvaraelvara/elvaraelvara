@@ -3,10 +3,10 @@
   <img src="https://media.giphy.com/media/FSR9GX4X06Wty/giphy.gif" width="300">
 </p>
 
-# 🌟 About Me  
-💡 Exploring the world of **AI, ML, and Data Science**  
-📊 Love turning **raw data into actionable insights**   
-🌱 Constantly **learning & evolving** in the data space  
+# 💡 About Me  
+Exploring the world of **AI, ML, and Data Science**  
+Love turning **raw data into actionable insights**   
+Constantly **learning & evolving** in the data space  
 
 ---
 # 🛠️ Tech Stack  
